@@ -1,0 +1,1 @@
+Os código apresentados abaixo mostram a criação de um gráfico gerado utilizando as bibliotecas seaborn e matplotlib considerando os dados apresentados por um arquivo csv: gasolina.csv manipulado através da biblioteca pandas, com a finalidade de resolver o exercício proposto pelo módulo 19 do curso de Analista de Dados da EBAC
